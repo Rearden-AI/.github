@@ -2,4 +2,4 @@ In Rearden AI wee are building an open source and user-owned web3 agents protoco
 
 Preserving user data, intents and actions are privately executed on the client side, Rearden AI feeds agents with trustless data and enterprise level models inference.
 
-# .github
+# .Rearden AI
